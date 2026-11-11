@@ -1,0 +1,9 @@
+# Raw dataset is too large for GitHub and not needed to run the app —
+# re-download from Kaggle and place here if you need to re-run 01_clean_data.py
+data/raw/
+
+__pycache__/
+*.pyc
+.DS_Store
+.venv/
+venv/
